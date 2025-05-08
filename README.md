@@ -129,6 +129,7 @@ JustEnoughResources-Fabric-1.20.1-1.4.0.247.jar
 sodium-fabric-0.5.13+mc1.20.1.jar
 dynamic-fps-3.9.3+minecraft-1.20.0-fabric.jar
 </details>
+
 # CZ
 # Co to je?
 je to modpack z mimrpimSMP 1 série
